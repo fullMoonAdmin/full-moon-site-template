@@ -11,7 +11,7 @@ export default function About() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">About page!</a>
+          Welcome to About page!
         </h1>
 
        

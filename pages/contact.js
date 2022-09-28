@@ -11,7 +11,7 @@ export default function Contact() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Conatct page!</a>
+          Welcome to Contact page!
         </h1>
 
        
